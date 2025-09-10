@@ -6,4 +6,4 @@ def generate_password(length=12):
     return ''.join(random.choice(characters) for _ in range(length))
 
 if __name__ == "__main__":
-    print("Senha gerada:", generate_password(16))
+    print("Generated password:", generate_password(16))
