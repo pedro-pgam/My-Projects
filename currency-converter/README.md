@@ -1,3 +1,3 @@
-# Conversor de Moedas
+# Currency Converter
 
-Converte valores entre moedas usando a API ExchangeRate.
+Converts amounts between currencies using the ExchangeRate API.
