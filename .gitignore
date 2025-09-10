@@ -1,0 +1,39 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.env
+.env
+venv/
+ENV/
+env/
+pip-log.txt
+*.sqlite3
+
+# ===== Flask =====
+instance/
+*.db
+*.sqlite
+
+# ===== VS Code =====
+.vscode/
+
+# ===== macOS =====
+.DS_Store
+
+# ===== Node / JavaScript =====
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+yarn.lock
+
+# ===== Logs =====
+*.log
+
+# ===== OS / System files =====
+Thumbs.db
