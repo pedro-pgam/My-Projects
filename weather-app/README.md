@@ -1,3 +1,3 @@
 # Weather App
 
-Mostra a previsão do tempo usando a API OpenWeatherMap.
+Displays weather data using the OpenWeatherMap API.
