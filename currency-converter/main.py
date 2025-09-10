@@ -7,4 +7,4 @@ def convert_currency(amount, from_currency, to_currency):
     return data['result']
 
 if __name__ == "__main__":
-    print("10 USD em EUR:", convert_currency(10, "USD", "EUR"))
+    print("10 USD in EUR:", convert_currency(10, "USD", "EUR"))
