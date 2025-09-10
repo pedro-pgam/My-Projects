@@ -1,51 +1,51 @@
-# Meus Projetos no GitHub
+# My Projects on GitHub
 
-Este repositório contém 5 projetos simples e úteis para praticar programação e mostrar habilidades no GitHub.
+This repository contains 5 simple and useful projects for practicing programming and showcasing skills on GitHub.
 
-## 📂 Projetos
+## 📂 Projects
 
-### 1. Gerador de Senhas Seguras
-- Linguagem: Python
-- Gera senhas aleatórias seguras com opções de tamanho e complexidade.
-- [Abrir pasta](password-generator)
+### 1. Secure Password Generator
+- Language: Python
+- Generates secure random passwords with size and complexity options.
+- [Open folder](password-generator)
 
-### 2. Conversor de Moedas
-- Linguagem: Python
-- Converte valores entre diferentes moedas usando a API ExchangeRate.
-- [Abrir pasta](currency-converter)
+### 2. Currency Converter
+- Language: Python
+- Converts values between different currencies using the ExchangeRate API.
+- [Open folder](currency-converter)
 
-### 3. To-Do List (Lista de Tarefas)
-- Linguagens: HTML, CSS, JavaScript
-- Aplicação web simples para gerenciar tarefas, com persistência no localStorage.
-- [Abrir pasta](todo-list)
+### 3. To-Do List
+- Languages: HTML, CSS, JavaScript
+- Simple web application for managing tasks, with persistence in localStorage.
+- [Open folder](todo-list)
 
-### 4. Aplicativo de Clima
-- Linguagens: HTML, CSS, JavaScript
-- Mostra o clima atual de uma cidade usando a API OpenWeatherMap.
-- [Abrir pasta](weather-app)
+### 4. Weather Application
+- Languages: HTML, CSS, JavaScript
+- Shows the current weather in a city using the OpenWeatherMap API.
+- [Open folder](weather-app)
 
-### 5. API REST com Flask
-- Linguagem: Python (Flask)
-- API para gerenciar usuários (CRUD).
-- [Abrir pasta](flask-api-users)
-
----
-
-## 🚀 Como usar
-Cada pasta contém um README com instruções específicas para executar o projeto.
+### 5. REST API with Flask
+- Language: Python (Flask)
+- API to manage users (CRUD).
+- [Open folder](flask-api-users)
 
 ---
 
-## 🤝 Como contribuir
-Contribuições são bem-vindas!  
-Para contribuir:
-1. Faça um fork do repositório.
-2. Crie uma branch para sua feature (`git checkout -b minha-feature`).
-3. Faça commit das alterações (`git commit -m 'Adicionei uma nova feature'`).
-4. Envie para a branch principal (`git push origin minha-feature`).
-5. Abra um Pull Request.
+## 🚀 How to use
+Each folder contains a README with specific instructions for running the project.
 
 ---
 
-## 📜 Licença
-Este repositório é distribuído sob a licença MIT. Sinta-se livre para usar e modificar os projetos.
+## 🤝 How to contribute
+Contributions are welcome!  
+To contribute:
+1. Fork the repository.
+2. Create a branch for your feature (`git checkout -b my-feature`).
+3. Commit the changes (`git commit -m ‘Added a new feature’`).
+4. Push to the main branch (`git push origin my-feature`).
+5. Open a Pull Request.
+
+---
+
+## 📜 License
+This repository is distributed under the MIT license. Feel free to use and modify the projects.
