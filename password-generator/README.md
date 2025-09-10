@@ -1,3 +1,3 @@
-# Gerador de Senhas
+# Password Generator
 
-Gera senhas seguras aleatórias usando Python.
+Generates secure random passwords using Python.
