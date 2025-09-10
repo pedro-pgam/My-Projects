@@ -1,3 +1,3 @@
-# API de Usuários com Flask
+# User API with Flask
 
-API simples de CRUD de usuários usando Flask.
+Simple CRUD API for users using Flask.
